@@ -1,4 +1,5 @@
 <h1>Use 7-segment display to count from 1 to 40 and 40 to 1 using two 7-seg displays</h1>
+<h2><a href="https://www.tinkercad.com/things/5mcZamV5ROZ-dazzling-bombul?sharecode=GcdYWLw-WfvktFN7FDuxCwjELswPpe5aJwxLslDMMb8"> Tinkercad </a></h2>
 
 	7 seg decoder (ones)  
  		pin 2 -- inp1
